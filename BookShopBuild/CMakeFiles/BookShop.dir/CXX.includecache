@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nzverkho/BookShopBuild/main.cpp
+iostream
+-
+string.h
+-
+Book.h
+/home/nzverkho/BookShopBuild/Book.h
+Shop.h
+/home/nzverkho/BookShopBuild/Shop.h
+Menu.h
+/home/nzverkho/BookShopBuild/Menu.h
+
+include/Book.h
+
+include/Menu.h
+
+include/Shop.h
+
