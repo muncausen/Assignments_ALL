@@ -1,5 +1,8 @@
 #include <iostream>
 #include <string.h>
+#include <sstream>
+#include <limits>
+#include <vector>
 #include "Book.h"
 #include "Shop.h"
 #include "Menu.h"

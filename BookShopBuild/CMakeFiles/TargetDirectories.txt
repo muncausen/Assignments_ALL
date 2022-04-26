@@ -1,3 +1,3 @@
-/home/nzverkho/BookShopBuild/CMakeFiles/rebuild_cache.dir
-/home/nzverkho/BookShopBuild/CMakeFiles/edit_cache.dir
-/home/nzverkho/BookShopBuild/CMakeFiles/BookShop.dir
+/home/nzverkho/Assignments_ALL/BookShopBuild/CMakeFiles/rebuild_cache.dir
+/home/nzverkho/Assignments_ALL/BookShopBuild/CMakeFiles/edit_cache.dir
+/home/nzverkho/Assignments_ALL/BookShopBuild/CMakeFiles/BookShop.dir

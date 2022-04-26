@@ -6,17 +6,23 @@
 
 #IncludeRegexTransform: 
 
-/home/nzverkho/BookShopBuild/main.cpp
+/home/nzverkho/Assignments_ALL/BookShopBuild/main.cpp
 iostream
 -
 string.h
 -
+sstream
+-
+limits
+-
+vector
+-
 Book.h
-/home/nzverkho/BookShopBuild/Book.h
+/home/nzverkho/Assignments_ALL/BookShopBuild/Book.h
 Shop.h
-/home/nzverkho/BookShopBuild/Shop.h
+/home/nzverkho/Assignments_ALL/BookShopBuild/Shop.h
 Menu.h
-/home/nzverkho/BookShopBuild/Menu.h
+/home/nzverkho/Assignments_ALL/BookShopBuild/Menu.h
 
 include/Book.h
 

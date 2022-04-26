@@ -6,5 +6,5 @@ CXX_FLAGS =   -std=gnu++17
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/nzverkho/BookShopBuild/include 
+CXX_INCLUDES = -I/home/nzverkho/Assignments_ALL/BookShopBuild/include 
 

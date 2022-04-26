@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/nzverkho/BookShopBuild/main.cpp" "/home/nzverkho/BookShopBuild/CMakeFiles/BookShop.dir/main.cpp.o"
+  "/home/nzverkho/Assignments_ALL/BookShopBuild/main.cpp" "/home/nzverkho/Assignments_ALL/BookShopBuild/CMakeFiles/BookShop.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
